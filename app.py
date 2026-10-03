@@ -52,6 +52,7 @@ FAULT_COLORS = {
 }
 
 app = dash.Dash(__name__)
+server = app.server
 app.title = "Chiller FDD Monitor"
 
 
