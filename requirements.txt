@@ -3,3 +3,4 @@ plotly>=5.22
 scikit-learn==1.7.1
 joblib>=1.4
 numpy>=1.26
+gunicorn>=22.0
